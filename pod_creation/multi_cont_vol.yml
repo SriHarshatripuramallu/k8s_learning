@@ -1,0 +1,29 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: sh-mc-vol
+  labels:
+    app: sh-app-vol
+spec:
+  volumes: 
+    - name: html
+      emptyDir: {}
+  containers:
+    - name: sh-cont-1
+      image: nginx
+      ports:
+        - containerPort: 80
+      volumeMounts:
+        - name: html
+          mountPath: /usr/share/nginx/html
+    - name: sh-cont-2
+      image: ubuntu
+      volumeMounts:
+        - name: html
+          mountPath: /html
+      command: ["/bin/sh", "-c"]
+      args: 
+        - while true; do
+            echo $(date) >> /html/index.html;
+            sleep 1;
+          done
