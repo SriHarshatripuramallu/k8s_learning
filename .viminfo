@@ -12,7 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1741542729,,"wq"
+|2,0,1741546063,,"wq"
+:w
+|2,0,1741545153,,"w"
 :Wq
 |2,0,1741510488,,"Wq"
 :q
@@ -29,36 +31,174 @@
 # Registers:
 
 # File marks:
-'0  23  0  ~/pod_creation/rs.yml
-|4,48,23,0,1741542729,"~/pod_creation/rs.yml"
-'1  15  23  ~/pod_creation/rc.yml
-|4,49,15,23,1741542131,"~/pod_creation/rc.yml"
-'2  20  13  /tmp/kubectl-edit-3113508974.yaml
-|4,50,20,13,1741542112,"/tmp/kubectl-edit-3113508974.yaml"
-'3  15  23  ~/pod_creation/rc.yml
-|4,51,15,23,1741541741,"~/pod_creation/rc.yml"
-'4  10  21  ~/pod_creation/rc.yml
-|4,52,10,21,1741540900,"~/pod_creation/rc.yml"
-'5  10  21  ~/pod_creation/rc.yml
-|4,53,10,21,1741540900,"~/pod_creation/rc.yml"
-'6  10  21  ~/pod_creation/rc.yml
-|4,54,10,21,1741540900,"~/pod_creation/rc.yml"
+'0  1  4  ~/.gitignore
+|4,48,1,4,1741546063,"~/.gitignore"
+'1  21  27  ~/pod_creation/deploy.yml
+|4,49,21,27,1741545568,"~/pod_creation/deploy.yml"
+'2  23  26  ~/pod_creation/rs2.yml
+|4,50,23,26,1741545156,"~/pod_creation/rs2.yml"
+'3  23  0  ~/pod_creation/rs.yml
+|4,51,23,0,1741542729,"~/pod_creation/rs.yml"
+'4  15  23  ~/pod_creation/rc.yml
+|4,52,15,23,1741542131,"~/pod_creation/rc.yml"
+'5  20  13  /tmp/kubectl-edit-3113508974.yaml
+|4,53,20,13,1741542112,"/tmp/kubectl-edit-3113508974.yaml"
+'6  15  23  ~/pod_creation/rc.yml
+|4,54,15,23,1741541741,"~/pod_creation/rc.yml"
 '7  10  21  ~/pod_creation/rc.yml
 |4,55,10,21,1741540900,"~/pod_creation/rc.yml"
-'8  22  0  ~/pod_creation/rc.yml
-|4,56,22,0,1741540612,"~/pod_creation/rc.yml"
-'9  22  0  ~/pod_creation/rc.yml
-|4,57,22,0,1741540612,"~/pod_creation/rc.yml"
+'8  10  21  ~/pod_creation/rc.yml
+|4,56,10,21,1741540900,"~/pod_creation/rc.yml"
+'9  10  21  ~/pod_creation/rc.yml
+|4,57,10,21,1741540900,"~/pod_creation/rc.yml"
 
 # Jumplist (newest first):
+-'  1  4  ~/.gitignore
+|4,39,1,4,1741546063,"~/.gitignore"
+-'  21  27  ~/pod_creation/deploy.yml
+|4,39,21,27,1741545568,"~/pod_creation/deploy.yml"
+-'  21  27  ~/pod_creation/deploy.yml
+|4,39,21,27,1741545568,"~/pod_creation/deploy.yml"
+-'  1  0  ~/pod_creation/deploy.yml
+|4,39,1,0,1741545564,"~/pod_creation/deploy.yml"
+-'  1  0  ~/pod_creation/deploy.yml
+|4,39,1,0,1741545564,"~/pod_creation/deploy.yml"
+-'  23  26  ~/pod_creation/rs2.yml
+|4,39,23,26,1741545156,"~/pod_creation/rs2.yml"
+-'  23  26  ~/pod_creation/rs2.yml
+|4,39,23,26,1741545156,"~/pod_creation/rs2.yml"
+-'  23  26  ~/pod_creation/rs2.yml
+|4,39,23,26,1741545156,"~/pod_creation/rs2.yml"
+-'  23  26  ~/pod_creation/rs2.yml
+|4,39,23,26,1741545156,"~/pod_creation/rs2.yml"
+-'  1  0  ~/pod_creation/rs2.yml
+|4,39,1,0,1741545150,"~/pod_creation/rs2.yml"
+-'  1  0  ~/pod_creation/rs2.yml
+|4,39,1,0,1741545150,"~/pod_creation/rs2.yml"
+-'  1  0  ~/pod_creation/rs2.yml
+|4,39,1,0,1741545150,"~/pod_creation/rs2.yml"
+-'  1  0  ~/pod_creation/rs2.yml
+|4,39,1,0,1741545150,"~/pod_creation/rs2.yml"
 -'  23  0  ~/pod_creation/rs.yml
 |4,39,23,0,1741542729,"~/pod_creation/rs.yml"
+-'  23  0  ~/pod_creation/rs.yml
+|4,39,23,0,1741542729,"~/pod_creation/rs.yml"
+-'  23  0  ~/pod_creation/rs.yml
+|4,39,23,0,1741542729,"~/pod_creation/rs.yml"
+-'  23  0  ~/pod_creation/rs.yml
+|4,39,23,0,1741542729,"~/pod_creation/rs.yml"
+-'  23  0  ~/pod_creation/rs.yml
+|4,39,23,0,1741542729,"~/pod_creation/rs.yml"
+-'  23  0  ~/pod_creation/rs.yml
+|4,39,23,0,1741542729,"~/pod_creation/rs.yml"
+-'  23  0  ~/pod_creation/rs.yml
+|4,39,23,0,1741542729,"~/pod_creation/rs.yml"
+-'  23  0  ~/pod_creation/rs.yml
+|4,39,23,0,1741542729,"~/pod_creation/rs.yml"
+-'  1  0  ~/pod_creation/rs.yml
+|4,39,1,0,1741542725,"~/pod_creation/rs.yml"
+-'  1  0  ~/pod_creation/rs.yml
+|4,39,1,0,1741542725,"~/pod_creation/rs.yml"
+-'  1  0  ~/pod_creation/rs.yml
+|4,39,1,0,1741542725,"~/pod_creation/rs.yml"
+-'  1  0  ~/pod_creation/rs.yml
+|4,39,1,0,1741542725,"~/pod_creation/rs.yml"
+-'  1  0  ~/pod_creation/rs.yml
+|4,39,1,0,1741542725,"~/pod_creation/rs.yml"
+-'  1  0  ~/pod_creation/rs.yml
+|4,39,1,0,1741542725,"~/pod_creation/rs.yml"
+-'  1  0  ~/pod_creation/rs.yml
+|4,39,1,0,1741542725,"~/pod_creation/rs.yml"
 -'  1  0  ~/pod_creation/rs.yml
 |4,39,1,0,1741542725,"~/pod_creation/rs.yml"
 -'  15  23  ~/pod_creation/rc.yml
 |4,39,15,23,1741542131,"~/pod_creation/rc.yml"
 -'  15  23  ~/pod_creation/rc.yml
 |4,39,15,23,1741542131,"~/pod_creation/rc.yml"
+-'  15  23  ~/pod_creation/rc.yml
+|4,39,15,23,1741542131,"~/pod_creation/rc.yml"
+-'  15  23  ~/pod_creation/rc.yml
+|4,39,15,23,1741542131,"~/pod_creation/rc.yml"
+-'  15  23  ~/pod_creation/rc.yml
+|4,39,15,23,1741542131,"~/pod_creation/rc.yml"
+-'  15  23  ~/pod_creation/rc.yml
+|4,39,15,23,1741542131,"~/pod_creation/rc.yml"
+-'  15  23  ~/pod_creation/rc.yml
+|4,39,15,23,1741542131,"~/pod_creation/rc.yml"
+-'  15  23  ~/pod_creation/rc.yml
+|4,39,15,23,1741542131,"~/pod_creation/rc.yml"
+-'  15  23  ~/pod_creation/rc.yml
+|4,39,15,23,1741542131,"~/pod_creation/rc.yml"
+-'  15  23  ~/pod_creation/rc.yml
+|4,39,15,23,1741542131,"~/pod_creation/rc.yml"
+-'  15  23  ~/pod_creation/rc.yml
+|4,39,15,23,1741542131,"~/pod_creation/rc.yml"
+-'  15  23  ~/pod_creation/rc.yml
+|4,39,15,23,1741542131,"~/pod_creation/rc.yml"
+-'  15  23  ~/pod_creation/rc.yml
+|4,39,15,23,1741542131,"~/pod_creation/rc.yml"
+-'  15  23  ~/pod_creation/rc.yml
+|4,39,15,23,1741542131,"~/pod_creation/rc.yml"
+-'  15  23  ~/pod_creation/rc.yml
+|4,39,15,23,1741542131,"~/pod_creation/rc.yml"
+-'  15  23  ~/pod_creation/rc.yml
+|4,39,15,23,1741542131,"~/pod_creation/rc.yml"
+-'  20  13  /tmp/kubectl-edit-3113508974.yaml
+|4,39,20,13,1741542112,"/tmp/kubectl-edit-3113508974.yaml"
+-'  20  13  /tmp/kubectl-edit-3113508974.yaml
+|4,39,20,13,1741542112,"/tmp/kubectl-edit-3113508974.yaml"
+-'  20  13  /tmp/kubectl-edit-3113508974.yaml
+|4,39,20,13,1741542112,"/tmp/kubectl-edit-3113508974.yaml"
+-'  20  13  /tmp/kubectl-edit-3113508974.yaml
+|4,39,20,13,1741542112,"/tmp/kubectl-edit-3113508974.yaml"
+-'  20  13  /tmp/kubectl-edit-3113508974.yaml
+|4,39,20,13,1741542112,"/tmp/kubectl-edit-3113508974.yaml"
+-'  20  13  /tmp/kubectl-edit-3113508974.yaml
+|4,39,20,13,1741542112,"/tmp/kubectl-edit-3113508974.yaml"
+-'  20  13  /tmp/kubectl-edit-3113508974.yaml
+|4,39,20,13,1741542112,"/tmp/kubectl-edit-3113508974.yaml"
+-'  20  13  /tmp/kubectl-edit-3113508974.yaml
+|4,39,20,13,1741542112,"/tmp/kubectl-edit-3113508974.yaml"
+-'  20  13  /tmp/kubectl-edit-3113508974.yaml
+|4,39,20,13,1741542112,"/tmp/kubectl-edit-3113508974.yaml"
+-'  20  13  /tmp/kubectl-edit-3113508974.yaml
+|4,39,20,13,1741542112,"/tmp/kubectl-edit-3113508974.yaml"
+-'  20  13  /tmp/kubectl-edit-3113508974.yaml
+|4,39,20,13,1741542112,"/tmp/kubectl-edit-3113508974.yaml"
+-'  20  13  /tmp/kubectl-edit-3113508974.yaml
+|4,39,20,13,1741542112,"/tmp/kubectl-edit-3113508974.yaml"
+-'  20  13  /tmp/kubectl-edit-3113508974.yaml
+|4,39,20,13,1741542112,"/tmp/kubectl-edit-3113508974.yaml"
+-'  20  13  /tmp/kubectl-edit-3113508974.yaml
+|4,39,20,13,1741542112,"/tmp/kubectl-edit-3113508974.yaml"
+-'  20  13  /tmp/kubectl-edit-3113508974.yaml
+|4,39,20,13,1741542112,"/tmp/kubectl-edit-3113508974.yaml"
+-'  20  13  /tmp/kubectl-edit-3113508974.yaml
+|4,39,20,13,1741542112,"/tmp/kubectl-edit-3113508974.yaml"
+-'  20  13  /tmp/kubectl-edit-3113508974.yaml
+|4,39,20,13,1741542112,"/tmp/kubectl-edit-3113508974.yaml"
+-'  20  13  /tmp/kubectl-edit-3113508974.yaml
+|4,39,20,13,1741542112,"/tmp/kubectl-edit-3113508974.yaml"
+-'  20  13  /tmp/kubectl-edit-3113508974.yaml
+|4,39,20,13,1741542112,"/tmp/kubectl-edit-3113508974.yaml"
+-'  20  13  /tmp/kubectl-edit-3113508974.yaml
+|4,39,20,13,1741542112,"/tmp/kubectl-edit-3113508974.yaml"
+-'  20  13  /tmp/kubectl-edit-3113508974.yaml
+|4,39,20,13,1741542112,"/tmp/kubectl-edit-3113508974.yaml"
+-'  20  13  /tmp/kubectl-edit-3113508974.yaml
+|4,39,20,13,1741542112,"/tmp/kubectl-edit-3113508974.yaml"
+-'  20  13  /tmp/kubectl-edit-3113508974.yaml
+|4,39,20,13,1741542112,"/tmp/kubectl-edit-3113508974.yaml"
+-'  20  13  /tmp/kubectl-edit-3113508974.yaml
+|4,39,20,13,1741542112,"/tmp/kubectl-edit-3113508974.yaml"
+-'  20  13  /tmp/kubectl-edit-3113508974.yaml
+|4,39,20,13,1741542112,"/tmp/kubectl-edit-3113508974.yaml"
+-'  20  13  /tmp/kubectl-edit-3113508974.yaml
+|4,39,20,13,1741542112,"/tmp/kubectl-edit-3113508974.yaml"
+-'  20  13  /tmp/kubectl-edit-3113508974.yaml
+|4,39,20,13,1741542112,"/tmp/kubectl-edit-3113508974.yaml"
+-'  20  13  /tmp/kubectl-edit-3113508974.yaml
+|4,39,20,13,1741542112,"/tmp/kubectl-edit-3113508974.yaml"
 -'  20  13  /tmp/kubectl-edit-3113508974.yaml
 |4,39,20,13,1741542112,"/tmp/kubectl-edit-3113508974.yaml"
 -'  20  13  /tmp/kubectl-edit-3113508974.yaml
@@ -75,184 +215,67 @@
 |4,39,1,0,1741542101,"/tmp/kubectl-edit-3113508974.yaml"
 -'  1  0  /tmp/kubectl-edit-3113508974.yaml
 |4,39,1,0,1741542101,"/tmp/kubectl-edit-3113508974.yaml"
--'  15  23  ~/pod_creation/rc.yml
-|4,39,15,23,1741541741,"~/pod_creation/rc.yml"
--'  15  23  ~/pod_creation/rc.yml
-|4,39,15,23,1741541741,"~/pod_creation/rc.yml"
--'  15  23  ~/pod_creation/rc.yml
-|4,39,15,23,1741541741,"~/pod_creation/rc.yml"
--'  15  23  ~/pod_creation/rc.yml
-|4,39,15,23,1741541741,"~/pod_creation/rc.yml"
--'  10  21  ~/pod_creation/rc.yml
-|4,39,10,21,1741541618,"~/pod_creation/rc.yml"
--'  10  21  ~/pod_creation/rc.yml
-|4,39,10,21,1741541618,"~/pod_creation/rc.yml"
--'  10  21  ~/pod_creation/rc.yml
-|4,39,10,21,1741541618,"~/pod_creation/rc.yml"
--'  10  21  ~/pod_creation/rc.yml
-|4,39,10,21,1741541618,"~/pod_creation/rc.yml"
--'  10  21  ~/pod_creation/rc.yml
-|4,39,10,21,1741541618,"~/pod_creation/rc.yml"
--'  10  21  ~/pod_creation/rc.yml
-|4,39,10,21,1741541618,"~/pod_creation/rc.yml"
--'  10  21  ~/pod_creation/rc.yml
-|4,39,10,21,1741540900,"~/pod_creation/rc.yml"
--'  10  21  ~/pod_creation/rc.yml
-|4,39,10,21,1741540900,"~/pod_creation/rc.yml"
--'  10  21  ~/pod_creation/rc.yml
-|4,39,10,21,1741540900,"~/pod_creation/rc.yml"
--'  10  21  ~/pod_creation/rc.yml
-|4,39,10,21,1741540900,"~/pod_creation/rc.yml"
--'  22  0  ~/pod_creation/rc.yml
-|4,39,22,0,1741540840,"~/pod_creation/rc.yml"
--'  22  0  ~/pod_creation/rc.yml
-|4,39,22,0,1741540840,"~/pod_creation/rc.yml"
--'  22  0  ~/pod_creation/rc.yml
-|4,39,22,0,1741540840,"~/pod_creation/rc.yml"
--'  22  0  ~/pod_creation/rc.yml
-|4,39,22,0,1741540840,"~/pod_creation/rc.yml"
--'  22  0  ~/pod_creation/rc.yml
-|4,39,22,0,1741540840,"~/pod_creation/rc.yml"
--'  22  0  ~/pod_creation/rc.yml
-|4,39,22,0,1741540840,"~/pod_creation/rc.yml"
--'  22  0  ~/pod_creation/rc.yml
-|4,39,22,0,1741540840,"~/pod_creation/rc.yml"
--'  22  0  ~/pod_creation/rc.yml
-|4,39,22,0,1741540840,"~/pod_creation/rc.yml"
--'  22  0  ~/pod_creation/rc.yml
-|4,39,22,0,1741540840,"~/pod_creation/rc.yml"
--'  22  0  ~/pod_creation/rc.yml
-|4,39,22,0,1741540840,"~/pod_creation/rc.yml"
--'  22  0  ~/pod_creation/rc.yml
-|4,39,22,0,1741540612,"~/pod_creation/rc.yml"
--'  22  0  ~/pod_creation/rc.yml
-|4,39,22,0,1741540612,"~/pod_creation/rc.yml"
--'  22  0  ~/pod_creation/rc.yml
-|4,39,22,0,1741540612,"~/pod_creation/rc.yml"
--'  22  0  ~/pod_creation/rc.yml
-|4,39,22,0,1741540612,"~/pod_creation/rc.yml"
--'  1  0  ~/pod_creation/rc.yml
-|4,39,1,0,1741540608,"~/pod_creation/rc.yml"
--'  1  0  ~/pod_creation/rc.yml
-|4,39,1,0,1741540608,"~/pod_creation/rc.yml"
--'  1  0  ~/pod_creation/rc.yml
-|4,39,1,0,1741540608,"~/pod_creation/rc.yml"
--'  1  0  ~/pod_creation/rc.yml
-|4,39,1,0,1741540608,"~/pod_creation/rc.yml"
--'  1  0  ~/pod_creation/rc.yml
-|4,39,1,0,1741540608,"~/pod_creation/rc.yml"
--'  1  0  ~/pod_creation/rc.yml
-|4,39,1,0,1741540608,"~/pod_creation/rc.yml"
--'  1  0  ~/pod_creation/rc.yml
-|4,39,1,0,1741540608,"~/pod_creation/rc.yml"
--'  1  0  ~/pod_creation/rc.yml
-|4,39,1,0,1741540608,"~/pod_creation/rc.yml"
--'  1  0  ~/pod_creation/rc.yml
-|4,39,1,0,1741540608,"~/pod_creation/rc.yml"
--'  1  0  ~/pod_creation/rc.yml
-|4,39,1,0,1741540608,"~/pod_creation/rc.yml"
--'  1  0  ~/pod_creation/rc.yml
-|4,39,1,0,1741540608,"~/pod_creation/rc.yml"
--'  1  0  ~/pod_creation/rc.yml
-|4,39,1,0,1741540608,"~/pod_creation/rc.yml"
--'  1  0  ~/pod_creation/rc.yml
-|4,39,1,0,1741540608,"~/pod_creation/rc.yml"
--'  1  0  ~/pod_creation/rc.yml
-|4,39,1,0,1741540608,"~/pod_creation/rc.yml"
--'  27  0  ~/pod_creation/multi_cont_vol2.yml
-|4,39,27,0,1741510845,"~/pod_creation/multi_cont_vol2.yml"
--'  27  0  ~/pod_creation/multi_cont_vol2.yml
-|4,39,27,0,1741510845,"~/pod_creation/multi_cont_vol2.yml"
--'  27  0  ~/pod_creation/multi_cont_vol2.yml
-|4,39,27,0,1741510845,"~/pod_creation/multi_cont_vol2.yml"
--'  27  0  ~/pod_creation/multi_cont_vol2.yml
-|4,39,27,0,1741510845,"~/pod_creation/multi_cont_vol2.yml"
--'  27  0  ~/pod_creation/multi_cont_vol2.yml
-|4,39,27,0,1741510845,"~/pod_creation/multi_cont_vol2.yml"
--'  27  0  ~/pod_creation/multi_cont_vol2.yml
-|4,39,27,0,1741510845,"~/pod_creation/multi_cont_vol2.yml"
--'  27  0  ~/pod_creation/multi_cont_vol2.yml
-|4,39,27,0,1741510845,"~/pod_creation/multi_cont_vol2.yml"
--'  27  0  ~/pod_creation/multi_cont_vol2.yml
-|4,39,27,0,1741510845,"~/pod_creation/multi_cont_vol2.yml"
--'  27  0  ~/pod_creation/multi_cont_vol2.yml
-|4,39,27,0,1741510845,"~/pod_creation/multi_cont_vol2.yml"
--'  27  0  ~/pod_creation/multi_cont_vol2.yml
-|4,39,27,0,1741510845,"~/pod_creation/multi_cont_vol2.yml"
--'  27  0  ~/pod_creation/multi_cont_vol2.yml
-|4,39,27,0,1741510845,"~/pod_creation/multi_cont_vol2.yml"
--'  27  0  ~/pod_creation/multi_cont_vol2.yml
-|4,39,27,0,1741510845,"~/pod_creation/multi_cont_vol2.yml"
--'  27  0  ~/pod_creation/multi_cont_vol2.yml
-|4,39,27,0,1741510845,"~/pod_creation/multi_cont_vol2.yml"
--'  27  0  ~/pod_creation/multi_cont_vol2.yml
-|4,39,27,0,1741510845,"~/pod_creation/multi_cont_vol2.yml"
--'  27  0  ~/pod_creation/multi_cont_vol2.yml
-|4,39,27,0,1741510845,"~/pod_creation/multi_cont_vol2.yml"
--'  27  0  ~/pod_creation/multi_cont_vol2.yml
-|4,39,27,0,1741510845,"~/pod_creation/multi_cont_vol2.yml"
--'  27  0  ~/pod_creation/multi_cont_vol2.yml
-|4,39,27,0,1741510845,"~/pod_creation/multi_cont_vol2.yml"
--'  27  0  ~/pod_creation/multi_cont_vol2.yml
-|4,39,27,0,1741510845,"~/pod_creation/multi_cont_vol2.yml"
--'  27  0  ~/pod_creation/multi_cont_vol2.yml
-|4,39,27,0,1741510845,"~/pod_creation/multi_cont_vol2.yml"
--'  27  0  ~/pod_creation/multi_cont_vol2.yml
-|4,39,27,0,1741510845,"~/pod_creation/multi_cont_vol2.yml"
--'  27  0  ~/pod_creation/multi_cont_vol2.yml
-|4,39,27,0,1741510845,"~/pod_creation/multi_cont_vol2.yml"
--'  27  0  ~/pod_creation/multi_cont_vol2.yml
-|4,39,27,0,1741510845,"~/pod_creation/multi_cont_vol2.yml"
--'  27  0  ~/pod_creation/multi_cont_vol2.yml
-|4,39,27,0,1741510845,"~/pod_creation/multi_cont_vol2.yml"
--'  27  0  ~/pod_creation/multi_cont_vol2.yml
-|4,39,27,0,1741510845,"~/pod_creation/multi_cont_vol2.yml"
--'  27  0  ~/pod_creation/multi_cont_vol2.yml
-|4,39,27,0,1741510845,"~/pod_creation/multi_cont_vol2.yml"
--'  27  0  ~/pod_creation/multi_cont_vol2.yml
-|4,39,27,0,1741510845,"~/pod_creation/multi_cont_vol2.yml"
--'  27  0  ~/pod_creation/multi_cont_vol2.yml
-|4,39,27,0,1741510845,"~/pod_creation/multi_cont_vol2.yml"
--'  27  0  ~/pod_creation/multi_cont_vol2.yml
-|4,39,27,0,1741510845,"~/pod_creation/multi_cont_vol2.yml"
--'  27  0  ~/pod_creation/multi_cont_vol2.yml
-|4,39,27,0,1741510845,"~/pod_creation/multi_cont_vol2.yml"
--'  27  0  ~/pod_creation/multi_cont_vol2.yml
-|4,39,27,0,1741510845,"~/pod_creation/multi_cont_vol2.yml"
--'  27  0  ~/pod_creation/multi_cont_vol2.yml
-|4,39,27,0,1741510845,"~/pod_creation/multi_cont_vol2.yml"
--'  27  0  ~/pod_creation/multi_cont_vol2.yml
-|4,39,27,0,1741510845,"~/pod_creation/multi_cont_vol2.yml"
--'  27  0  ~/pod_creation/multi_cont_vol2.yml
-|4,39,27,0,1741510845,"~/pod_creation/multi_cont_vol2.yml"
--'  27  0  ~/pod_creation/multi_cont_vol2.yml
-|4,39,27,0,1741510845,"~/pod_creation/multi_cont_vol2.yml"
--'  27  0  ~/pod_creation/multi_cont_vol2.yml
-|4,39,27,0,1741510845,"~/pod_creation/multi_cont_vol2.yml"
--'  27  0  ~/pod_creation/multi_cont_vol2.yml
-|4,39,27,0,1741510845,"~/pod_creation/multi_cont_vol2.yml"
--'  27  0  ~/pod_creation/multi_cont_vol2.yml
-|4,39,27,0,1741510845,"~/pod_creation/multi_cont_vol2.yml"
--'  27  0  ~/pod_creation/multi_cont_vol2.yml
-|4,39,27,0,1741510845,"~/pod_creation/multi_cont_vol2.yml"
--'  27  0  ~/pod_creation/multi_cont_vol2.yml
-|4,39,27,0,1741510845,"~/pod_creation/multi_cont_vol2.yml"
--'  27  0  ~/pod_creation/multi_cont_vol2.yml
-|4,39,27,0,1741510845,"~/pod_creation/multi_cont_vol2.yml"
--'  27  0  ~/pod_creation/multi_cont_vol2.yml
-|4,39,27,0,1741510845,"~/pod_creation/multi_cont_vol2.yml"
--'  27  0  ~/pod_creation/multi_cont_vol2.yml
-|4,39,27,0,1741510845,"~/pod_creation/multi_cont_vol2.yml"
--'  27  0  ~/pod_creation/multi_cont_vol2.yml
-|4,39,27,0,1741510845,"~/pod_creation/multi_cont_vol2.yml"
--'  27  0  ~/pod_creation/multi_cont_vol2.yml
-|4,39,27,0,1741510845,"~/pod_creation/multi_cont_vol2.yml"
--'  27  0  ~/pod_creation/multi_cont_vol2.yml
-|4,39,27,0,1741510845,"~/pod_creation/multi_cont_vol2.yml"
--'  27  0  ~/pod_creation/multi_cont_vol2.yml
-|4,39,27,0,1741510845,"~/pod_creation/multi_cont_vol2.yml"
+-'  1  0  /tmp/kubectl-edit-3113508974.yaml
+|4,39,1,0,1741542101,"/tmp/kubectl-edit-3113508974.yaml"
+-'  1  0  /tmp/kubectl-edit-3113508974.yaml
+|4,39,1,0,1741542101,"/tmp/kubectl-edit-3113508974.yaml"
+-'  1  0  /tmp/kubectl-edit-3113508974.yaml
+|4,39,1,0,1741542101,"/tmp/kubectl-edit-3113508974.yaml"
+-'  1  0  /tmp/kubectl-edit-3113508974.yaml
+|4,39,1,0,1741542101,"/tmp/kubectl-edit-3113508974.yaml"
+-'  1  0  /tmp/kubectl-edit-3113508974.yaml
+|4,39,1,0,1741542101,"/tmp/kubectl-edit-3113508974.yaml"
+-'  1  0  /tmp/kubectl-edit-3113508974.yaml
+|4,39,1,0,1741542101,"/tmp/kubectl-edit-3113508974.yaml"
+-'  1  0  /tmp/kubectl-edit-3113508974.yaml
+|4,39,1,0,1741542101,"/tmp/kubectl-edit-3113508974.yaml"
+-'  1  0  /tmp/kubectl-edit-3113508974.yaml
+|4,39,1,0,1741542101,"/tmp/kubectl-edit-3113508974.yaml"
+-'  1  0  /tmp/kubectl-edit-3113508974.yaml
+|4,39,1,0,1741542101,"/tmp/kubectl-edit-3113508974.yaml"
+-'  1  0  /tmp/kubectl-edit-3113508974.yaml
+|4,39,1,0,1741542101,"/tmp/kubectl-edit-3113508974.yaml"
+-'  1  0  /tmp/kubectl-edit-3113508974.yaml
+|4,39,1,0,1741542101,"/tmp/kubectl-edit-3113508974.yaml"
+-'  1  0  /tmp/kubectl-edit-3113508974.yaml
+|4,39,1,0,1741542101,"/tmp/kubectl-edit-3113508974.yaml"
+-'  1  0  /tmp/kubectl-edit-3113508974.yaml
+|4,39,1,0,1741542101,"/tmp/kubectl-edit-3113508974.yaml"
+-'  1  0  /tmp/kubectl-edit-3113508974.yaml
+|4,39,1,0,1741542101,"/tmp/kubectl-edit-3113508974.yaml"
+-'  1  0  /tmp/kubectl-edit-3113508974.yaml
+|4,39,1,0,1741542101,"/tmp/kubectl-edit-3113508974.yaml"
+-'  1  0  /tmp/kubectl-edit-3113508974.yaml
+|4,39,1,0,1741542101,"/tmp/kubectl-edit-3113508974.yaml"
+-'  1  0  /tmp/kubectl-edit-3113508974.yaml
+|4,39,1,0,1741542101,"/tmp/kubectl-edit-3113508974.yaml"
+-'  1  0  /tmp/kubectl-edit-3113508974.yaml
+|4,39,1,0,1741542101,"/tmp/kubectl-edit-3113508974.yaml"
+-'  1  0  /tmp/kubectl-edit-3113508974.yaml
+|4,39,1,0,1741542101,"/tmp/kubectl-edit-3113508974.yaml"
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitignore
+	*	1741546063	0
+	"	1	4
+	^	1	5
+	.	1	4
+	+	1	4
+
+> ~/pod_creation/deploy.yml
+	*	1741545567	0
+	"	21	27
+	^	21	28
+	.	21	27
+	+	21	27
+
+> ~/pod_creation/rs2.yml
+	*	1741545155	0
+	"	23	26
+	^	23	27
+	.	23	26
+	+	23	26
 
 > ~/pod_creation/rs.yml
 	*	1741542728	0
